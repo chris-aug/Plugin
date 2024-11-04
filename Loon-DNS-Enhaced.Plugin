@@ -29,64 +29,64 @@ dot.360.cn = 101.198.198.198
 dns.twnic.tw = 101.101.101.101
 ordns.he.net = 74.82.42.42
 
-; # > Router Admin Panel
-; # Ubiquiti Unifi Network App
-; *.id.ui.direct = server:system
-; # Ubiquiti Unifi Portal
-; # unifi.ui.com = server:system
-; # Ubiquiti Unifi OS
-; unifi.local = server:system
-; # Ubiquiti Unifi Controller
-; # network.unifi.ui.com = server:system
-; # Ubiquiti Amplifi Router
-; amplifi.lan = server:system
-; # Synology Router
-; router.synology.com = server:system
-; # Razer Sila Router
-; sila.razer.com = server:system
-; # Asus Router
-; router.asus.com = server:system
-; # Netgear Router
-; routerlogin.net = server:system
-; # Netgear Obri Router
-; orbilogin.com = server:system
-; # Linksys Router
-; www.LinksysSmartWiFi.com = server:system
-; LinksysSmartWiFi.com = server:system
-; myrouter.local = server:system
-; # Aurba Router
-; instant.arubanetworks.com = server:system
-; setmeup.arubanetworks.com = server:system
-; # 小米 Mi WiFi Router
-; www.miwifi.com = server:system
-; miwifi.com = server:system
-; # 华为 Huawei Router
-; mediarouter.home = server:system
-; # TP-Link Router
-; tplogin.cn = server:system
-; tplinklogin.net = server:system
-; tplinkwifi.net = server:system
-; # 水星 MERCURY Router
-; melogin.cn = server:system
-; # 迅捷 FAST Router
-; falogin.cn = server:system
-; # 腾达 Tenda Router
-; tendawifi.com = server:system
-; # 磊科 Netcore Router
-; leike.cc = server:system
-; # 中兴 ZTE Router
-; zte.home = server:system
-; # 斐讯 PHICOMM Router
-; p.to = server:system
-; phicomm.me = server:system
-; # 极路由 HiWiFi Router
-; hiwifi.com = server:system
-; # 迅雷路由
-; peiluyou.com = server:system
-; # M2M routers at MiFi Hotspot
-; _hotspot_.m2m = server:system
-; # csl Wi-Fi
-; hotspot.cslwifi.com = server:system
+## > Router Admin Panel
+## Ubiquiti Unifi Network App
+#*.id.ui.direct = server:system
+## Ubiquiti Unifi Portal
+## unifi.ui.com = server:system
+## Ubiquiti Unifi OS
+#unifi.local = server:system
+## Ubiquiti Unifi Controller
+## network.unifi.ui.com = server:system
+## Ubiquiti Amplifi Router
+#amplifi.lan = server:system
+## Synology Router
+#router.synology.com = server:system
+## Razer Sila Router
+#sila.razer.com = server:system
+## Asus Router
+#router.asus.com = server:system
+## Netgear Router
+#routerlogin.net = server:system
+## Netgear Obri Router
+#orbilogin.com = server:system
+## Linksys Router
+#www.LinksysSmartWiFi.com = server:system
+#LinksysSmartWiFi.com = server:system
+#myrouter.local = server:system
+## Aurba Router
+#instant.arubanetworks.com = server:system
+#setmeup.arubanetworks.com = server:system
+## 小米 Mi WiFi Router
+#www.miwifi.com = server:system
+#miwifi.com = server:system
+## 华为 Huawei Router
+#mediarouter.home = server:system
+## TP-Link Router
+#tplogin.cn = server:system
+#tplinklogin.net = server:system
+#tplinkwifi.net = server:system
+## 水星 MERCURY Router
+#melogin.cn = server:system
+## 迅捷 FAST Router
+#falogin.cn = server:system
+## 腾达 Tenda Router
+#tendawifi.com = server:system
+## 磊科 Netcore Router
+#leike.cc = server:system
+## 中兴 ZTE Router
+#zte.home = server:system
+## 斐讯 PHICOMM Router
+#p.to = server:system
+#phicomm.me = server:system
+## 极路由 HiWiFi Router
+#hiwifi.com = server:system
+## 迅雷路由
+#peiluyou.com = server:system
+## M2M routers at MiFi Hotspot
+#_hotspot_.m2m = server:system
+## csl Wi-Fi
+#hotspot.cslwifi.com = server:system
 
 # > Apple
 # refer: https://support.apple.com/zh-cn/HT210060
